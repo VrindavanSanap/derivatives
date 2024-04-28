@@ -1,5 +1,6 @@
 ## Derivatives  
 
+### Functions
   1.  Categorical cross-entropy loss derivative
   2.  Softmax activation loss derivative
   3.  Common Categorical cross-entropy Softmax activation derivative
